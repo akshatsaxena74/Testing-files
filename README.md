@@ -1,1 +1,1 @@
-# This is a file made for testing.c
+# This is a file made for testing.
